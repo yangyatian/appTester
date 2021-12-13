@@ -1,0 +1,7 @@
+appPackage: com.test.test
+appActivity: test
+udid: VBJ4C18519016748
+platformName: Android
+app: app.getAbsolutePath()
+noReset: true
+sessionOverride: true
